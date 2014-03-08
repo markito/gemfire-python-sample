@@ -1,0 +1,10 @@
+[Twitter]
+consumer_key=[key]
+consumer_secret=[secret]
+access_token_key=[token-key]
+access_token_secret=[token-secret]
+
+[GemFireXD]
+database=GFXD
+user=app
+password=app
